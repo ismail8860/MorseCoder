@@ -1,0 +1,9 @@
+# Ignore compiled files and caches 
+*.bin
+*.elf
+*.hex
+/.pio
+/.vscode
+/build
+.theia/
+
