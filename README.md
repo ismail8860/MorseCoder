@@ -9,5 +9,5 @@ LEDs (one external LED and one built-in LED(pin 2))
 
 ### Feedback :
 
-The code needs improvement with readability and logic. 
-replace values with named constants instead of reusing them.
+The code needs improvement with readability and logic. <Br>
+TO-DO: replace values with named constants instead of reusing them.
